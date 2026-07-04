@@ -1,7 +1,13 @@
 # TMD Fab Analytics — CVD 공정-계측 데이터 분석 시스템
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tmd-fab-analytics.streamlit.app)
+
 > **2D 반도체(MoS₂/WS₂) CVD 성장 공정의 Raman/PL 계측 데이터를 자동 분석하고,
 > SPC(통계적 공정 관리) 관점으로 산포를 관리하는 미니 팹 계측 시스템**
+
+**▶ 라이브 데모: [tmd-fab-analytics.streamlit.app](https://tmd-fab-analytics.streamlit.app)**
+
+![dashboard](docs/figures/dashboard_screenshot.png)
 
 연세대학교 나노소자연구실(NDL, Nanodevice Laboratory) 학부연구생 시절
 3-zone CVD로 직접 성장시킨 MoS₂/WS₂ 시료의 **실측 Raman/PL 스펙트럼 94개**를
