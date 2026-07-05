@@ -9,7 +9,7 @@
 
 ![dashboard](docs/figures/dashboard_screenshot.png)
 
-연세대학교 나노소자연구실(NDL, Nanodevice Laboratory) 학부연구생 시절
+학부연구생 시절
 3-zone CVD로 직접 성장시킨 MoS₂/WS₂ 시료의 **실측 Raman/PL 스펙트럼 94개**를
 기반으로 만들었습니다. 
 
