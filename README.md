@@ -137,10 +137,3 @@ python scripts/make_figures.py       # README 그림 재생성
 
 Python · NumPy/SciPy(피크 피팅) · pandas · Streamlit + Plotly(대시보드) · matplotlib
 
-## 데이터 출처
-
-연세대학교 NDL(Nanodevice Laboratory)에서 학부연구생으로 직접 수행한
-3-zone CVD MoS₂/WS₂ 성장 및 Raman/PL 측정 데이터 (2026.02–2026.04).
-연구실의 관련 연구:
-*ACS Appl. Mater. Interfaces* 2026, 18, 12132−12142 ·
-*Appl. Surf. Sci.* 642 (2024) 158566
